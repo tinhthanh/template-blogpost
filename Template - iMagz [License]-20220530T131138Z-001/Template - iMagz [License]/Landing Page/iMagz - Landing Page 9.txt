@@ -1,0 +1,49 @@
+<div class='pG pG-09'>
+  <div class='pgCont'>
+    <div class='secIn'>
+      <div class='widget'>
+        <!--[ Title ]-->
+        <h2 class='title'>Common questions</h2>
+
+        <div class='content'>
+          <p>*Beberapa pertanyaan yang sering ditanyakan oleh pembeli. <a href='#'>Selengkapnya</a></p>
+
+          <!--[ Accordion start ]-->
+          <div class='showH'>
+            <!--[ Accordion line 1 ]-->
+            <details class='ac'>
+              <summary>Lorem ipsum dolor sit amet, consectetur adipiscing elit</summary>
+              <div class='aC'>
+                <p>Proin vestibulum dignissim diam, et efficitur felis commodo et. Mauris vel diam pellentesque lorem lacinia luctus. Nulla quam magna, pharetra in ultrices at, condimentum id tellus.</p>
+              </div>
+            </details>
+  
+            <!--[ Accordion line 2 ]-->
+            <details class='ac'>
+              <summary>Lorem ipsum dolor sit amet, consectetur adipiscing elit</summary>
+              <div class='aC'>
+                <p>Proin vestibulum dignissim diam, et efficitur felis commodo et. Mauris vel diam pellentesque lorem lacinia luctus. Nulla quam magna, pharetra in ultrices at, condimentum id tellus.</p>
+              </div>
+            </details>
+  
+            <!--[ Accordion line 3 ]-->
+            <details class='ac'>
+              <summary>Lorem ipsum dolor sit amet, consectetur adipiscing elit</summary>
+              <div class='aC'>
+                <p>Proin vestibulum dignissim diam, et efficitur felis commodo et. Mauris vel diam pellentesque lorem lacinia luctus. Nulla quam magna, pharetra in ultrices at, condimentum id tellus.</p>
+              </div>
+            </details>
+  
+            <!--[ Accordion line 4 ]-->
+            <details class='ac'>
+              <summary>Lorem ipsum dolor sit amet, consectetur adipiscing elit</summary>
+              <div class='aC'>
+                <p>Proin vestibulum dignissim diam, et efficitur felis commodo et. Mauris vel diam pellentesque lorem lacinia luctus. Nulla quam magna, pharetra in ultrices at, condimentum id tellus.</p>
+              </div>
+            </details>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

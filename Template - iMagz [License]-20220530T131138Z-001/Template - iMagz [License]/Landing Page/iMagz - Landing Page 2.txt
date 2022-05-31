@@ -1,0 +1,58 @@
+<div class='pG pG-02'>
+  <div class='pgCont'>
+    <div class='secIn pgFx pgRw'>
+      <div class='widget HTML'>
+        <div class='content'>
+          <!--[ Title ]-->
+          <h2 class='title'>Landing Page</h2>
+          <p>Kami berusaha membuat landing page yang mudah di edit/kostumisasi dengan memindahkan semua kodenya ke menu Tata Letak</p>
+
+          <ul>
+            <li>
+              <svg class='line' viewbox='0 0 24 24'><path d='M22 11.07V12a10 10 0 1 1-5.93-9.14'></path><polyline points='23 3 12 14 9 11'></polyline></svg>
+
+              <!--[ Text ]-->
+              <span>10+ landing page</span>
+            </li>
+            <li>
+              <svg class='line' viewbox='0 0 24 24'><path d='M22 11.07V12a10 10 0 1 1-5.93-9.14'></path><polyline points='23 3 12 14 9 11'></polyline></svg>
+
+              <!--[ Text ]-->
+              <span>Easy to customize</span>
+            </li>
+            <li>
+              <svg class='line' viewbox='0 0 24 24'><path d='M22 11.07V12a10 10 0 1 1-5.93-9.14'></path><polyline points='23 3 12 14 9 11'></polyline></svg>
+
+              <!--[ Text ]-->
+              <span>Drag and drop widget</span>
+            </li>
+            <li>
+              <svg class='line' viewbox='0 0 24 24'><path d='M22 11.07V12a10 10 0 1 1-5.93-9.14'></path><polyline points='23 3 12 14 9 11'></polyline></svg>
+
+              <!--[ Text ]-->
+              <span>Easy to change widget order</span>
+            </li>
+            <li>
+              <svg class='line' viewbox='0 0 24 24'><path d='M22 11.07V12a10 10 0 1 1-5.93-9.14'></path><polyline points='23 3 12 14 9 11'></polyline></svg>
+
+              <!--[ Text ]-->
+              <span>Responsive landing page</span>
+            </li>
+            <li>
+              <svg class='line' viewbox='0 0 24 24'><path d='M22 11.07V12a10 10 0 1 1-5.93-9.14'></path><polyline points='23 3 12 14 9 11'></polyline></svg>
+
+              <!--[ Text with link ]-->
+              <a href='#'>More attractive feature</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class='Image'>
+        <img alt='edit_alt_here' class='lazy' data-src='https://1.bp.blogspot.com/-cLrKHBT6Wd8/YB36esf95KI/AAAAAAAAQVI/AyWEbohoVewGFjOG66j1AqjIRVQjsqNzQCNcBGAsYHQ/s0/undraw_Landing_page.png' src='data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs='/>
+
+        <!-- <span class='caption'>Caption_here_if_needed</span> -->
+      </div>
+    </div>
+  </div>
+</div>
