@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content='width=device-width, initial-scale=1.0' name='viewport'/>
+ <title>
+    <data:blog.title/>
+    </title>
+    <b:skin><![CDATA[
+
+       /* Chèn Css vào đây */
+
+    ]]></b:skin>
+  </head>
+  <body>
+    <b:section class='navbar' id='navbar' maxwidgets='1' showaddelement='yes'/>
+  </body>
+</html>

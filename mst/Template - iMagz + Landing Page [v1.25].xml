@@ -1549,11 +1549,21 @@ class TableOfContents { constructor({ from, to }) { this.fromElement = from; thi
                                     <span class='n' itemprop='name'>About</span>
                                   </a>
                                 </li>
+
+                                   <!--[ Standar menu ]-->
+                                <li>
+                                  <!--[ Change attribute href='#' to add url ]-->
+                                  <a class='a' href='/search' itemprop='url'>
+                          
+                                    <!--[ Title navigation ]-->
+                                    <span class='n' itemprop='name'>Blog</span>
+                                  </a>
+                                </li>
                           
                                 <!--[ Standar menu ]-->
                                 <li class='br'>
                                   <!--[ Change attribute href='#' to add url ]-->
-                                  <a class='a' href='#' itemprop='url'>
+                                  <a class='a' href='p/contact-form.html' itemprop='url'>
                             
                                     <!--[ Title navigation ]-->
                                     <span class='n' itemprop='name'>Contact</span>
