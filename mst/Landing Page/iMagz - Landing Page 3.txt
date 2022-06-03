@@ -1,0 +1,17 @@
+<div class='pG pG-03'>
+  <div class='pgCont'>
+    <div class='secIn pgFx'>
+      <div class='widget HTML'>
+        <div class='content'>
+          <!--[ Title ]-->
+          <h2 class='title'>Lebih mudah dipakai, <br />Lebih mudah digunakan</h2>
+        </div>
+      </div>
+
+      <div class='Content'>
+        <p>Kami berusaha semaksimal mungkin untuk membuat tema yang lebih mudah digunakan, dengan tampilan kode yang lebih rapi dan mudah dimengerti.</p>
+        <p>Template yang kami buat selalu diperbaharui secara berkala, sekarang anda bisa dengan mudah mengubah warna dan beberapa bagian lainnya dengan mudah tanpa harus edit HTML template</p>
+      </div>
+    </div>
+  </div>
+</div>

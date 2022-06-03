@@ -1,0 +1,75 @@
+<div class='pG pG-07'>
+  <div class='pgCont'>
+    <div class='secIn'>
+      <div class='widget HTML'>
+        <div class='content'>
+          <!--[ Title ]-->
+          <h2 class='title'>Beli sekarang juga!</h2>
+                    
+          <div class='pay'>
+
+            <!--[ Payment option 1 ]-->
+            <div class='pyM'>
+              <div class='pyH'>Standard</div>
+              <div class='pyP' data-currency='Rp' data-text='k'>150</div>
+
+              <ol class='pyI'>
+                <li>iMagz + Landing Page</li>
+                <li>iMagz Standar Version</li>
+                <li>iMagz AMP</li>
+                <li>All Post Template</li>
+                <li>Full Support RTL Mode</li>
+              </ol>
+
+              <div class='pyB'>
+                <a class='button' href='#'><i class='icon cart'></i> Buy Now!</a>
+              </div>
+            </div>
+                    
+            <!--[ Payment option 2 add class dics]-->
+            <div class='pyM disc'>
+              <div class='pyH'>Sample</div>
+              <div class='pyP' data-currency='Rp' data-text='k'>000</div>
+              <i class='strike'>000rb</i>
+
+              <ol class='pyI'>
+                <li>iMagz + Landing Page</li>
+                <li>iMagz Standar Version</li>
+                <li>iMagz AMP</li>
+                <li>All Post Template</li>
+                <li>Full Support RTL Mode</li>
+              </ol>
+
+              <div class='pyB'>
+                <a class='button' href='#'><i class='icon cart'></i> Buy Now!</a>
+              </div>
+            </div>
+                    
+            <!--[ Payment option 3 add class dics and ds-40 ]-->
+            <div class='pyM disc ds-40'>
+              <div class='pyH'>Sample with Discount</div>
+              <div class='pyP' data-currency='Rp' data-text='k'>000</div>
+              <i class='strike'>000rb</i>
+
+              <ol class='pyI'>
+                <li>iMagz + Landing Page</li>
+                <li>iMagz Standar Version</li>
+                <li>iMagz AMP</li>
+                <li>All Post Template</li>
+                <li>Full Support RTL Mode</li>
+              </ol>
+
+              <div class='pyB'>
+                <a class='button' href='#'><i class='icon cart'></i> Buy Now!</a>
+              </div>
+            </div>
+                    
+          </div>
+      
+          <p>*Pembelian dapat dilakukan melalui Transfer Bank Lokal, Dana, OVO, dan Jenius.</p>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

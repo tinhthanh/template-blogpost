@@ -1,0 +1,40 @@
+<div class='pG pG-05'>
+  <div class='pgCont'>
+    <div class='secIn pgFx'>
+      <div class='widget HTML'>
+        <div class='content'>
+          <!--[ Title ]-->
+          <h2 class='title'>Easy Customization</h2>
+          <p>Kami berusaha membuat template ini lebih mudah untuk di edit, sekarang anda bisa langsung mengubah warna melalui Desainer Tema Blogger atau menu Tata Letak</p>
+
+          <ul class='lf'>
+            <li>
+              <svg class='line' viewbox='0 0 24 24'><path d='M22 11.07V12a10 10 0 1 1-5.93-9.14'></path><polyline points='23 3 12 14 9 11'></polyline></svg>
+
+              <!--[ Text ]-->
+              <span>Primary Color Option</span>
+            </li>
+            <li>
+              <svg class='line' viewbox='0 0 24 24'><path d='M22 11.07V12a10 10 0 1 1-5.93-9.14'></path><polyline points='23 3 12 14 9 11'></polyline></svg>
+
+              <!--[ Text ]-->
+              <span>SVG Icon</span>
+            </li>
+            <li>
+              <svg class='line' viewbox='0 0 24 24'><path d='M22 11.07V12a10 10 0 1 1-5.93-9.14'></path><polyline points='23 3 12 14 9 11'></polyline></svg>
+
+              <!--[ Text ]-->
+              <span>Custom Widgets</span>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class='Image'>
+        <img alt='edit_alt_here' class='lazy' data-src='https://1.bp.blogspot.com/-BZHR9QxgdsQ/YB4IMrwqO6I/AAAAAAAAQVo/pNQYe_G-vUcpDJfap8_wmotwvjZOy9V8gCNcBGAsYHQ/s0/undraw_work_together.png' src='data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs='/>
+
+        <!-- <span class='caption'>Caption_here_if_needed</span> -->
+      </div>
+    </div>
+  </div>
+</div>

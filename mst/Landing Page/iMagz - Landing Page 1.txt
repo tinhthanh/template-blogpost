@@ -1,0 +1,26 @@
+<div class='pG pG-01'>
+  <div class='pgCont'>
+    <div class='secIn pgFx'>
+      <div class='widget HTML'>
+        <div class='widget-content'>
+          <!--[ Title ]-->
+          <h2 class='title'>Responsive Blogger Theme + Landing Page</h2>
+          <p>iMagz merupakan template Blogger dengan landing page yang mudah digunakan</p>
+
+          <!--[ change href='#' atribute to add link -->
+          <div class='ln'>
+            <a class='button' href='#' target='_blank'><i class='icon cart'></i>Get this theme</a>
+            <a class='l' href='#'>Changelog</a>
+          </div>
+        </div>
+      </div>
+      <div class='widget Image' data-version='2' id='Image51'>
+        <!--[ Image with link ]-->
+        <a href='https://imagz.jagodesain.com/p/contact.html'>
+          <img alt='Title_image_here' class='lazy' data-src='https://1.bp.blogspot.com/-cLrKHBT6Wd8/YB36esf95KI/AAAAAAAAQVI/AyWEbohoVewGFjOG66j1AqjIRVQjsqNzQCNcBGAsYHQ/s0/undraw_Landing_page.png' height='186'  src='data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=' width='300'/>
+        </a>
+        <!--<span class='caption'>Caption_here_if_needed</span>-->
+      </div>
+    </div>
+  </div>
+</div>
